@@ -20,8 +20,7 @@ TEST_CASES = {
 
 ICON_MAP = {
     "Black bin": "mdi:trash-can",
-    "Blue bin": "mdi:recycle",
-    "Brown bin": "mdi:leaf",
+    "Brown bin": "mdi:recycle",
 }
 
 _LOGGER = logging.getLogger(__name__)
