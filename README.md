@@ -1071,6 +1071,7 @@ Waste collection schedules in the following formats and countries are supported.
 - [Hart District Council](/doc/source/hart_gov_uk.md) / hart.gov.uk
 - [Herefordshire City Council](/doc/source/herefordshire_gov_uk.md) / herefordshire.gov.uk
 - [Highland](/doc/source/highland_gov_uk.md) / highland.gov.uk
+- [Highpeak](/doc/source/highpeak_gov_uk.md) / highpeak.gov.uk
 - [Horsham District Council](/doc/source/horsham_gov_uk.md) / horsham.gov.uk
 - [Huntingdonshire District Council](/doc/source/huntingdonshire_gov_uk.md) / huntingdonshire.gov.uk
 - [iTouchVision](/doc/source/iweb_itouchvision_com.md) / iweb.itouchvision.com
